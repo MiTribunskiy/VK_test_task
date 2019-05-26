@@ -1,1 +1,1 @@
-# VK_test_task
+# Task for VK internship
